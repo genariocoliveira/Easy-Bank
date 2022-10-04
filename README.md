@@ -4,11 +4,11 @@
 
 ## Welcome! 👋
 
-Thanks for checking out this front-end coding challenge.
+[>>>Site<<<](https://genariocoliveira.github.io/Easy-Bank/)
+### Tecnologies
 
-[Frontend Mentor](https://www.frontendmentor.io) challenges help you improve your coding skills by building realistic projects.
+- HTML
+- CSS
 
-**To do this challenge, you need a basic understanding of HTML, CSS and JavaScript.**
-
-## Contact
+## Contact me
 mail: genariocdeoliveira@gmail.com 🚀
